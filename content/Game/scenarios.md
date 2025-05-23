@@ -1,0 +1,59 @@
+---
+title: Scenario Explanations
+---
+
+- **CutClean**: Ores/food drop smelted.
+- **Gone Fishin'**: Enchanting is disabled, so you must fish to get enchantments!
+- **FlowerPower**: Flowers drop random items.
+- **HasteyBoys**: All tools are enchanted with efficiency 3 & unbreaking 1.
+- **SkyHigh**: All players must go above y-101 when PvP occurs, lest they take damage.
+- **Timber**: Breaking one part of a tree breaks the entire tree.
+- **CityWorld**: This custom map contains cities with roads, sewer systems, large mineshafts, and giant buildings as well as custom forests and mountains. You can gather loot by pillaging the city's buildings as well as through loot chests that spawn underground in the map's unique caves.
+- **Bleeding Sweets**: When a player dies, they drop 1 diamond, 5 gold, 16 arrows and 1 string.
+- **Siphon**: Whenever you get a kill, you will regenerate 2 hearts, gain 2 levels and get a random tier 1 enchanted book.
+- **Fast Getaway**: Players receive speed 2 for 45 seconds when they get a kill.
+- **Giga Drill**: Tools are enchanted with efficiency X & unbreaking V.
+- **Switcheroo**: Shooting someone with a bow swaps your position with theirs.
+- **Loot Crates**: Every 10 minutes, every player will receive a lootcrate filled with a random goody.
+- **Double Ores**: Ores drop double of what they're supposed to drop.
+- **Diamondless**: Diamonds are unobtainable except by killing players.
+- **Bare Bones**: Iron is the highest tier you can obtain through gearing up. When a player dies, they will drop 1 diamond, 1 golden apple, 32 arrows, and 2 string. You cannot craft an enchantment table, anvil, or golden apple.
+- **Monsters Inc.**: Right-clicking a door teleports you to another random door.
+- **Beta Zombies**: Zombies drop feathers.
+- **Avengers**: Players are assigned a random power like an Avenger, you'll be told the effects of said power.
+- **Team Inventory**: Each team gets their own shared inventory.
+- **Golden Retriever**: Players drop golden heads when they die.
+- **OP LootCrates**: Like Loot Crates, except the drops are even more overpowered.
+- **WebCages**: Players are surrounded in a cage of webs when they die.
+- **Moles**: At PvP, a random teammate is assigned as a mole, moles must kill their own teammates.
+- **NoClean**: Players receive 15 seconds of invincibility upon killing other players.
+- **TimeBomb**: Items are placed in a chest when players die, after 30s, that chest will explode.
+- **Nicholas Cage**: Players are covered in a sphere of TNT when they die.
+- **Fallout**: If you are not below y-60 at PvP, you will take damage.
+- **Bats**: Bats drop golden apples when they die, however there's a 5% chance of killing the player.
+- **Grave Robbers**: Players are buried into a grave when they die.
+- **Extreme SkyHigh**: At PvP, if you're not above y-200, you will take 2 hearts of damage.
+- **Weakest Link**: Every 10 minutes, the person with the least health will be killed.
+- **Enchanted Death**: Enchantment Tables are disabled, the only way to acquire one is by killing someone.
+- **Infinite Enchanter**: Players are given items for enchanting at the beginning of the game.
+- **Blood Diamonds**: Mining diamonds deal half a heart of damage.
+- **Vein Miner**: Mining an ore while shifting mines the whole vein.
+- **Villager Madness**: You are given a stack of emerald blocks & villager spawn eggs at the start of the game.
+- **Underground Parallel**: Below y42 is a copy of the surface above with changes to trees. Leaves under y42 are replaced with 50% stone, 24.5% coal ore, 24% iron ore, 1% gold ore, and 0.5% diamond ore. Logs under level 42 are replaced with 5% glowstone, 5% redstone ore and 90% gravel. Mineshafts generate floating below y42.
+- **Paranoia**: Every time you complete a certain activity, your name or co-ordinates are broadcast in chat. These activities include: Mining Gold/Diamond, going to the nether, crafting a brewing stand or golden apple, and dying.
+- **Rewarding Longshots**: When shooting and hitting people with an arrow from a variable distance, you will be rewarded with various different items.
+- **Big Crack**: A Chunk Error running on the X or Z axis splits the world in half.
+- **Auctions**: 8 players are chosen to be "buyers". The "buyers" will receive an X amount of diamonds for bidding. The command to bid on players is /bid <# of diamonds>. After the bidding, the buyers keep the diamonds they still own.
+- **Sky Ores**: Instead of in caves, ores are in the sky in the inverted way they would be normally. This means diamonds will be high up and coal will be low.
+- **Eggs**: When you throw an egg, a random mob will spawn where it lands.
+- **Champions**: Adds Hypixel UHC crafts & other features to the game.
+- **Bombers**: Everyone starts out with an unbreakable flint and steel, most animals and monsters drop TNT.
+- **Bowless**: Players cannot use bows at all during the duration of the game.
+- **NoFall**: Players do not take fall damage.
+- **Love at First Sight**: Players are scattered as solos, the first player they hit will become their teammate.
+- **Genie**: You are given 3 wishes and you cannot get more. Based on the number of kills you have in the game is what you can wish for. (If you have 0 kills, you can get the following: Golden Apple, Diamond Sword, Anvil. If you have 1 Kill, you can get the following: Player Head, Speed 1 Potion, Strength 1 Potion. If you have 2 Kills, you can get the following: Enchantment Table, Brewing Stand, 5 Diamond Ore. If you have 4 Kills, you can get the following: Instant Health 2 Potion Not Splashable, 128 Bottles of Enchanting, 1 Glowstone Block, 1 Blaze Rod. If you have 5+ Kills, you can get the following: 64 Obsidian, 8 Gold Ingots, 4 Soul Sand, 3 Wither Skeleton Heads.)
+- **Gapple Roulette**: Whenever you eat a Golden Apple, you will get a random potion effect for a certain time.
+- **Superheroes**: Players at the beginning of the day will be assigned a random potion effect, you'll be told the effect given.
+- **Krenzinator**: 9 redstone blocks can be crafted into 1 diamond, horses are disabled (but donkeys aren't), crafting a diamond sword will result in a loss of 1 heart, eggs do damage in this gamemode (0.5 hearts), nether is off.
+- **Red Arrows**: Large red arrows appear when a player dies.
+- **Parafusion**: When a player mines gold, or diamonds, crafts an enchant table, anvil, golden apples or heads, or brewing stand, eats a golden apple or golden head. or dies, then coordinates will be broadcasted with the names being "???". Health on tab will be disabled. Along with the /h command
