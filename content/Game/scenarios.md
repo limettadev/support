@@ -57,3 +57,29 @@ title: Scenario Explanations
 - **Krenzinator**: 9 redstone blocks can be crafted into 1 diamond, horses are disabled (but donkeys aren't), crafting a diamond sword will result in a loss of 1 heart, eggs do damage in this gamemode (0.5 hearts), nether is off.
 - **Red Arrows**: Large red arrows appear when a player dies.
 - **Parafusion**: When a player mines gold, or diamonds, crafts an enchant table, anvil, golden apples or heads, or brewing stand, eats a golden apple or golden head. or dies, then coordinates will be broadcasted with the names being "???". Health on tab will be disabled. Along with the /h command
+- **Potential Moles**: At PvP, every player has a chance to be a mole.
+- **Fuck you, it's a Fireball Wand!**: At the start of the game, you receive a stick that spawns launchable fireballs.
+- **Slimy Crack**: A Chunk Error running on the X or Z axis splits the world in half. The bottom will be replaced with slime blocks, allowing for easy spleefing.
+- **Triple Ores**: Ores drop triple of what they're supposed to drop.
+- **Player Swap**: Every 2 to 5 minutes, at an unannounced time, two players will swap places.
+- **Best PvE**: Every 10 minutes, if you have not taken damage yet, you will gain a heart. If you take damage, then you are off the list. The only way to get back onto the list is to kill a player.
+- **Bookception**: Players will drop a random enchanted book on death.
+- **Chump Charity**: Every 10 minutes, the person who is on the lowest health gets fully healed.
+- **Cupid**: Every time you shoot and hit a player with your bow, you gain 1% of your health back.
+- **Depths**: As your Y level goes down, the monsters will get stronger and stronger.
+- **Double Health**: All players start with double health.
+- **Enchant Progression**: All players receive 1 enchanting table use for each kill they get.
+- **Anvil Progression**: Any time you kill a player, you will get 1 use of the anvil. The more kills you accumulate, the more uses of the anvil you can use.
+- **Experienced Crafter**: If you want to craft a certain item, it will cost you XP levels to craft it. An iron sword, bow, golden apple, or golden head, and a diamond pick costs 1 level. Crafting iron armor will cost 2 levels. Crafting an anvil or a diamond sword will cost 3 levels. Crafting diamond armor will cost 5 levels. Crafting an enchantment table will cost 6 levels. Lastly, crafting a brewing stand will cost 10 levels.
+- **Fortune Men**: All tools are enchanted with fortune 3.
+- **Fortune Boys**: All tools are enchanted with fortune 2
+- **Fortune Babies**: All tools are enchanted with fortune 1.
+- **Triple Iron**: All iron ores are triple what they drop.
+- **Hastey Babies**: All tools are enchanted with efficiency 1.
+- **No Anvil**: Anvils are disabled and unusable.
+- **No Enchants**: Enchantments from the enchantment table are disabled.
+- **Quiver**: You are only permitted to carry only 16 arrows in your inventory at one time.
+- **Speedy Miners**: Players that are under Y: 32 will receive Speed 1.
+- **Lifesteal**: You gain half a heart to your max health after every kill.
+- **Melee Fun**: There is no delay for when hitting a player, removes the noDamageTicks. So this means players can get insane combos! It is sort of like Combo UHC.
+- **Progressive SkyHigh**: After PvP, stay near 0,0 and above Y: 150 or take increasing damage every 45 seconds.
