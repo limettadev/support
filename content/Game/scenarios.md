@@ -83,3 +83,4 @@ title: Scenario Explanations
 - **Lifesteal**: You gain half a heart to your max health after every kill.
 - **Melee Fun**: There is no delay for when hitting a player, removes the noDamageTicks. So this means players can get insane combos! It is sort of like Combo UHC.
 - **Progressive SkyHigh**: After PvP, stay near 0,0 and above Y: 150 or take increasing damage every 45 seconds.
+- **Redemption**: All players in the game have two lives. Once you die a first time, you will be rescattered with your current inventory. Dying for a second time represents your elimination from the game.
